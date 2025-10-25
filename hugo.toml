@@ -1,0 +1,4 @@
+baseURL = 'https://lthwhugo.2practice.xyz/'
+languageCode = 'en-us'
+title = 'LTHW Hugo'
+theme = 'ananke'
